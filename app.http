@@ -1,3 +1,5 @@
 GET http://localhost:3000/
 ###
 Get http://localhost:3000/date
+###
+GET http://localhost:3000/page
